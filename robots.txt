@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alijeewrites.github.io/best-ai-tools-for-side-hustle-2026/sitemap.xml
